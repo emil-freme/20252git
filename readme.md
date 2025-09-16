@@ -2,4 +2,6 @@
 
 Aula 01 de git
 
-Falndo de Init, Add, e Commit
+Falando de Init, Add, e Commit
+
+Repo remoto
