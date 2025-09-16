@@ -4,4 +4,4 @@ Aula 01 de git
 
 Falando de Init, Add, e Commit
 
-Repo remoto
+Repo remoto, será que dá ruim?
